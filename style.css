@@ -1,0 +1,46 @@
+.name{
+    bottom: 0;
+    position: fixed;
+    background-color: olive;
+    font-style:italic;
+    width: 100%;
+    text-align: center;
+    color: maroon;
+    line-height: 3;
+}
+body{
+    background-color: orangered;
+    color: maroon;
+}
+h1{
+    font-style: italic;
+    color: aqua;
+    font-weight: bolder;
+
+}
+h4{
+    font-style: oblique;
+    color: blueviolet;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+}
+#camera{
+    width: 500px;
+    height: 500px;
+    border: 2px solid red;
+}
+img{
+    width: 37%;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px greenyellow;
+    
+}
+img:hover{
+    border-radius: 150px;
+}
+.column{
+    padding: 10px;
+    display: inline;
+    color: bisque;
+}
